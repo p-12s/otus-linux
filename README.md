@@ -12,7 +12,7 @@
 [10. Потоковые редакторы](https://github.com/p-12s/otus-linux/tree/master/10)    
 [11. Systemd - первый после ядра](https://github.com/p-12s/otus-linux/tree/master/11)    
 [12. Вирутальная память](https://github.com/p-12s/otus-linux/tree/master/12)    
-[13. ](https://github.com/p-12s/otus-linux/tree/master/13)    
+[13. Основы контейнеризации в Linux](https://github.com/p-12s/otus-linux/tree/master/13)    
 [14. ](https://github.com/p-12s/otus-linux/tree/master/14)    
 [15. ](https://github.com/p-12s/otus-linux/tree/master/15)    
 [16. ](https://github.com/p-12s/otus-linux/tree/master/16)    
